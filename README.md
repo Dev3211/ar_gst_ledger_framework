@@ -18,8 +18,3 @@ This repository provides a standardized bookkeeping workbook that eliminates man
 - **Multi-Currency Conversion**: Links foreign currency invoices directly to live exchange benchmark cells.
 
 ---
-
-## 👤 Author
-**Dev Sarma**  
-*Accounts & Invoice Executive | Financial Operations & AR/AP Management*  
-[GitHub Profile](https://github.com/Dev3211)
