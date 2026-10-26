@@ -16,5 +16,3 @@ This repository provides a standardized bookkeeping workbook that eliminates man
 - **Dynamic Aging Analysis**: Uses conditional counting and summing formulas (`COUNTIF`, `SUMIF`) to automatically categorize outstanding client balances into *Current*, *30-60 Days*, and *60+ Days Overdue*.
 - **Automated GST Computation**: Applies standard tax rates (18%) directly to base amounts with clean rounding formatting.
 - **Multi-Currency Conversion**: Links foreign currency invoices directly to live exchange benchmark cells.
-
----
